@@ -1,1 +1,1 @@
-display
+letteronly
