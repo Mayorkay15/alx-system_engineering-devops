@@ -1,1 +1,1 @@
-action
+paths
