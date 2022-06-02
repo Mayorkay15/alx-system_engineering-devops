@@ -1,1 +1,1 @@
-div
+power
